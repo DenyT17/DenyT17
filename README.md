@@ -5,9 +5,12 @@
 </h1>
 <h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM5MWJlZTZhZGEwYWQ3MWVlZTFiZTUzOWUzZjFhYmQ3MWE1MzdjOCZjdD1z/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="500px"/>
-</h1>
+  </a>
+  <a href="https://twitter.com/Daniel99546580">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
- 🌱 I’m currently learning TensorFlow. 
  
  
  ### :fire: My Stats :
