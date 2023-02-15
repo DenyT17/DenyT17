@@ -19,7 +19,7 @@
 * I am very interested in artificial intelligence, for this reason I try to learn the necessary tools used in this field,
 * In January 2023, I set up my Github account and since then I've been trying to regularly post my learning progres her.
  ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenyT17&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenyT17&theme=neon-palenight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)]
  ### 📊 Languages and Tools :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
