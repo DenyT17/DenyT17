@@ -31,6 +31,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
   
  ### 📚 I am currently learning:
+  * Prediction with Sklearn libraries 
   * Deep Computer Vision and image classification using
   
 ![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
