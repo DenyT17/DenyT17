@@ -34,9 +34,8 @@
   
  ### 📚 I am currently learning:
   * Prediction with Sklearn libraries 
-  * Optimization of hyperparameters of basic classifiers
+    - Optimization of hyperparameters of basic classifiers
 ![Sklearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- 
   
   * Deep Computer Vision and image classification using
 ![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
