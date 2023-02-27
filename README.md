@@ -14,8 +14,8 @@
   </a>
 
  ## 👨‍💻 Something about me:
-* I've been learning python for a five months,
-* I am starting my Masters in Computer Science soon,
+* I've been learning python for a six months,
+* I am in the first semester of my master's studies in the field of computer science,
 * I am very interested in artificial intelligence, for this reason I try to learn the necessary tools used in this field,
 * In January 2023, I set up my Github account and since then I've been trying to regularly post my learning progres her.
  ### :fire: My Stats :
