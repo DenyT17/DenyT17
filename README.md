@@ -42,7 +42,8 @@
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
   
  ### 💻 Currently working on the project:
-Titanic Survival Prediction 
+Titanic Survival Prediction :
+  
 [![image](https://user-images.githubusercontent.com/122997699/222529508-4c8cf221-d5fc-4ec2-96ea-e0dbe726169f.png)](https://github.com/DenyT17/Titanic.git)
 
 
