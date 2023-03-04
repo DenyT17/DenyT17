@@ -44,5 +44,5 @@
  ### 💻 Currently working on the project:
 
 * [Titanic Survival Prediction 🚢 ](https://github.com/DenyT17/Titanic.git)
-* [Pokemon Battle Combat] (https://github.com/DenyT17/Pokemon_Anlalisis.git)
+* [Pokemon Battle Combat 🐲] (https://github.com/DenyT17/Pokemon_Anlalisis.git)
 
