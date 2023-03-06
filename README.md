@@ -35,6 +35,7 @@
  ### 📚 I am currently learning:
   * Prediction with Sklearn libraries 
     - Optimization of hyperparameters of basic classifiers
+    - Cross-validation and features engineering
     - Bagging and boosting 
   
   * Deep Computer Vision and image classification using
